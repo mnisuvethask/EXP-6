@@ -25,11 +25,6 @@ I. Connect the multimeter at the output of kit..
 
 OBSERVATION TABLE
 
-| Displacement            | Input Voltage (V/cm) | Output Voltage        | Frequency (Hz) | Time = 1/f |
-|-------------------------|----------------------|-----------------------|---------------|------------|
-| Positive Displacement   | 7                    | 2.2 V (D = 5 mm)     | 1000          | 1/1000 = 1 ms |
-| Negative Displacement   | 7                    | D = −5 mm            | 1000          | 1 ms       |
-
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
